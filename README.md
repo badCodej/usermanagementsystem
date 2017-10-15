@@ -4,14 +4,14 @@ This is a basic user management system that only works on browser. The data stor
 
 ## About task
 
- You can see a list of existing users
- You can see a list of existing groups
- You can create users
- You can create groups
- You can assign users to a group they aren’t already part of
- You can remove users from a group
- You can delete groups when they no longer have members
- You can delete users
+ You can see a list of existing users                              <br />
+ You can see a list of existing groups                             <br />
+ You can create users                                              <br />
+ You can create groups                                             <br />
+ You can assign users to a group they aren’t already part of       <br />
+ You can remove users from a group                                 <br />
+ You can delete groups when they no longer have members            <br />
+ You can delete users                                              <br />
 
 You can see user detail page as a modal.
 You can see logs about removing and adding of users on right sidebar.

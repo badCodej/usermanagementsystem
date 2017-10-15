@@ -1,0 +1,42 @@
+
+.input_round {
+    border-radius: 28px !important;
+    width: 100%;
+    outline: none;
+    text-indent: 10px;
+    padding: 6px;
+    border: 1px solid #ccc;
+}
+
+.mt-5 {
+    margin-top: 5px;
+}
+
+.right_round {
+    border-top-right-radius: 28px;
+    border-bottom-right-radius: 28px;
+}
+.btn {
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.search_form {
+    position: absolute;
+    top: 6px;
+    right: 15px;
+    background: #6cd5ff;
+    border: 0;
+    font-size: 11pt;
+    padding: 4px 18px;
+    color: #fff;
+}
+
+.add_btn {
+    text-transform: inherit !important;
+    outline: none;
+}
+.add_btn i {
+    font-size: 12pt;
+    padding-right: 10px;
+}
